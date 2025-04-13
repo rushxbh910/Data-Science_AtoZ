@@ -1,0 +1,5 @@
+##we use docker compose to run multiple containers together and each container can also interact with each other
+
+version: "3.0"
+services:
+  web:
